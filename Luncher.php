@@ -1,6 +1,6 @@
 <?php
 
-define('BOT_TOKEN', '289931231:AAE9sVyldpL0M9TUrZzFklZaUI5cc8Yxf60');
+define('BOT_TOKEN', 'الصق التوكن هنا');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 function apiRequestWebhook($method, $parameters) {
@@ -133,9 +133,9 @@ _يقوم البوت بصنع بوتات خاصه بلعبه ❌⭕️_
 `123456789:ABCDE1FGHIJ5KLMNO5PQRS`
 
 لكل شخص  = بوت 1✖️
-لحصولك على بوت اخر   [راسل المطور👮](t.me/dev_evo)
+لحصولك على بوت اخر   [راسل المطور👮](t.me/llalill_bot)
 لانشاء بوت اخر راسل المطورين✔️
-[تابع جديدنا على التليكرام](telegram.me/dev_evo) ',"parse_mode"=>"MARKDOWN",
+[تابع جديدنا على التليكرام](telegram.me/programmers_iraq) ',"parse_mode"=>"MARKDOWN",
 "disable_web_page_preview"=>"true",
 "reply_to_message_id"=>$message_id,
 'reply_markup' => array(
@@ -167,7 +167,7 @@ $pmembersid= explode("\n",$txxt);
 
         }
     }else if ($text == "🤖المساعده 👾") {
-      apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "*IQ TEAM*
+      apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "*programmers of iraq*
 _الاصدار_ *1.0*
 _بوت xo🤖👾_
 
@@ -175,9 +175,9 @@ _يقوم البوت بصناعه بوتات  xo🤖🌚_
 
 `يعمل البوت في الكروبات + الخاص +القنوات😍💋`
 
-[شرح لكيفيه عمل بوت ⭕️❌مهم جدا يرجى المشاهده](https://t.me/dev_evo)
+[شرح لكيفيه عمل بوت ⭕️❌مهم جدا يرجى المشاهده](https://t.me/programmer_iraq)
 
-[تابع جديدنا على التليكرام](t.me/dev_evo)
+[تابع جديدنا على التليكرام](t.me/programmer_iraq)
 
 Copy Right 2017©
 
@@ -241,9 +241,13 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "تحقق ال�
         file_get_contents('https://api.telegram.org/bot'.$text.'/setwebhook?url=');
         file_get_contents('https://api.telegram.org/bot'.$text.'/setwebhook?url=https://test-evo-tqnie.c9users.io/xosaz-master/'.$chat_id.'/pvresan.php');
     $unstalled = "تم تثبيت البوت الخاص بك بنجاح 🚀
+    لا يمكنك تفعيل بوتك الا تشترك في القناه 
+    (القناه)[t.me/programmer_iraq]
+   
 اضغط للدخول البوت الخاص بك 👇😃
+
 لإعطاء تصنيف لدينا البوت  👇
- https://telegram.me/storebot?start=xoiq_bot
+ https://telegram.me/storebot?start=makexo_bot
 .";
     
     $bot_url    = "https://api.telegram.org/bot289931231:AAE9sVyldpL0M9TUrZzFklZaUI5cc8Yxf60/"; 
@@ -277,7 +281,7 @@ $output = curl_exec($ch);
 لكل شخص = بوت✖️
 البوت الثاني = راسل المطورين✔️
 
-لحصولك على بوت اخر   [راسل المطور👮](t.me/dev_evo)
+لحصولك على بوت اخر   [راسل المطور👮](t.me/programmer_iraq)
 
 🚀."));
       }
@@ -328,7 +332,7 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "الآن تح�
     $unstalled = "تم تثبيت البوت الخاص بك بنجاح 🚀
 اضغط للدخول البوت الخاص بك 👇😃
 لإعطاء تصنيف لدينا البوت  👇
- https://telegram.me/storebot?start=xoiq_bot
+ https://telegram.me/storebot?start=makexo_bot
 .";
     
     $bot_url    = "https://api.telegram.org/bot289931231:AAE9sVyldpL0M9TUrZzFklZaUI5cc8Yxf60/"; 
@@ -357,7 +361,7 @@ $output = curl_exec($ch);
 لكل شخص = بوت✖️
 البوت الثاني = راسل المطورين✔️
 
-لحصولك على بوت اخر   [راسل المطور👮](t.me/dev_evo)
+لحصولك على بوت اخر   [راسل المطور👮](t.me/programmer_iraq)
 🚀."));
       }
 
