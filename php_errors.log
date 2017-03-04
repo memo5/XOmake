@@ -1,0 +1,497 @@
+[22-Jan-2017 23:45:50 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[22-Jan-2017 23:46:47 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[24-Jan-2017 09:16:37 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[30-Jan-2017 14:30:48 UTC] PHP Parse error:  syntax error, unexpected 'inline_keyboard' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 153
+[30-Jan-2017 14:31:20 UTC] PHP Parse error:  syntax error, unexpected 'inline_keyboard' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 153
+[30-Jan-2017 14:31:21 UTC] PHP Parse error:  syntax error, unexpected 'inline_keyboard' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 153
+[30-Jan-2017 14:33:37 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 14:33:39 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 14:34:04 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 14:34:05 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 14:35:25 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 14:51:52 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 14:52:23 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 14:53:10 UTC] PHP Parse error:  syntax error, unexpected 'reply_markup' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/227295904/pvresan.php on line 152
+[30-Jan-2017 15:26:13 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[30-Jan-2017 15:26:16 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[30-Jan-2017 15:27:04 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[30-Jan-2017 16:00:04 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[30-Jan-2017 20:29:15 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[30-Jan-2017 20:33:28 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[30-Jan-2017 20:33:28 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[30-Jan-2017 20:33:29 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[30-Jan-2017 20:33:29 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[30-Jan-2017 20:37:30 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[31-Jan-2017 07:08:19 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 07:30:19 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 08:20:49 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[31-Jan-2017 08:48:45 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 09:09:03 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[31-Jan-2017 09:09:04 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[31-Jan-2017 09:14:03 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 09:17:50 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 09:53:26 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 09:54:54 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 09:58:25 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 09:58:39 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[31-Jan-2017 10:10:44 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[08-Feb-2017 16:22:48 UTC] PHP Parse error:  syntax error, unexpected '"inline_keyboard"' (T_CONSTANT_ENCAPSED_STRING), expecting '(' in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 225
+[08-Feb-2017 16:22:58 UTC] PHP Parse error:  syntax error, unexpected '"inline_keyboard"' (T_CONSTANT_ENCAPSED_STRING), expecting '(' in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 225
+[08-Feb-2017 16:59:09 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[08-Feb-2017 17:13:53 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 190
+[08-Feb-2017 17:14:13 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 190
+[08-Feb-2017 17:14:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 190
+[08-Feb-2017 17:15:30 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 190
+[08-Feb-2017 17:29:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 190
+[08-Feb-2017 17:30:55 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 190
+[08-Feb-2017 17:41:56 UTC] PHP Parse error:  syntax error, unexpected ''reply_markup'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 152
+[08-Feb-2017 18:04:39 UTC] PHP Parse error:  syntax error, unexpected 'inline_keyboard' (T_STRING), expecting ')' in /home/ubuntu/workspace/xosaz-master/261203340/pvresan.php on line 153
+[08-Feb-2017 18:31:25 UTC] Request has failed with error 400: Bad Request: QUERY_ID_INVALID
+
+[08-Feb-2017 18:36:53 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 18:36:53 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[08-Feb-2017 18:36:54 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[08-Feb-2017 18:37:51 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 18:38:00 UTC] Request has failed with error 429: Too Many Requests: retry after 194
+
+[08-Feb-2017 18:38:01 UTC] Request has failed with error 429: Too Many Requests: retry after 193
+
+[08-Feb-2017 18:38:06 UTC] Request has failed with error 429: Too Many Requests: retry after 188
+
+[08-Feb-2017 18:38:07 UTC] Request has failed with error 429: Too Many Requests: retry after 187
+
+[08-Feb-2017 18:38:10 UTC] Request has failed with error 429: Too Many Requests: retry after 184
+
+[08-Feb-2017 18:38:16 UTC] Request has failed with error 429: Too Many Requests: retry after 178
+
+[08-Feb-2017 18:38:17 UTC] Request has failed with error 429: Too Many Requests: retry after 177
+
+[08-Feb-2017 18:38:18 UTC] Request has failed with error 429: Too Many Requests: retry after 176
+
+[08-Feb-2017 18:38:31 UTC] Request has failed with error 429: Too Many Requests: retry after 163
+
+[08-Feb-2017 18:38:46 UTC] Request has failed with error 429: Too Many Requests: retry after 148
+
+[08-Feb-2017 18:38:50 UTC] Request has failed with error 429: Too Many Requests: retry after 144
+
+[08-Feb-2017 20:00:55 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:02:34 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:20:54 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:23:16 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:37:33 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:40:24 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:43:16 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:46:06 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:46:41 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:46:45 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:47:32 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[08-Feb-2017 20:47:38 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[08-Feb-2017 20:48:43 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:48:59 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[08-Feb-2017 20:50:00 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[09-Feb-2017 09:26:46 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 09:26:47 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 09:26:48 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 09:55:49 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 09:56:48 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 09:56:50 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 10:01:02 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 10:02:15 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[09-Feb-2017 11:24:09 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 11:24:17 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[09-Feb-2017 20:11:14 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[11-Feb-2017 20:31:53 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[11-Feb-2017 20:32:57 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[11-Feb-2017 20:32:57 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[11-Feb-2017 20:32:57 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[11-Feb-2017 20:32:58 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[11-Feb-2017 20:32:59 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[11-Feb-2017 20:33:44 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[15-Feb-2017 01:45:02 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[15-Feb-2017 01:55:46 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[15-Feb-2017 01:55:47 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[15-Feb-2017 02:04:39 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 19:44:44 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:09:41 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:09:42 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:09:43 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:09:43 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:10:14 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:14:01 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:15:51 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:16:19 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:16:25 UTC] Request has failed with error 429: Too Many Requests: retry after 86
+
+[16-Feb-2017 20:16:39 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:16:39 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:16:43 UTC] Request has failed with error 429: Too Many Requests: retry after 68
+
+[16-Feb-2017 20:17:18 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:18:24 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:19:14 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:19:42 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:20:18 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:21:15 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:25:17 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:26:09 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:26:24 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:31 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:32 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:34 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:35 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:37 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:37 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:39 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:41 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:43 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:43 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:43 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:29:53 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:32:11 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:33:03 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:33:18 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:34:54 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:36:07 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:36:56 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 20:38:14 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:39:07 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:39:33 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:40:50 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:41:15 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:41:38 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 20:42:08 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:42:50 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:43:36 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:43:44 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 20:43:44 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 20:43:45 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 20:43:46 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 20:43:55 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:43:57 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:44:36 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:45:36 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 20:45:50 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 20:52:56 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 22:08:37 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:09:36 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:10:37 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:10:50 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:10:50 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:10:50 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:11:00 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:17:15 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:25:00 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:25:08 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:25:20 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:27:56 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 22:29:38 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:29:53 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 22:31:22 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 22:33:49 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 22:35:46 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:35:54 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:45:17 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 22:45:53 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 22:47:40 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 23:00:51 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 23:06:30 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 23:06:30 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 23:06:31 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 23:10:01 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[16-Feb-2017 23:25:24 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 23:30:02 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 23:35:52 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 23:35:57 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 23:35:58 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 23:38:28 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 23:45:07 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[16-Feb-2017 23:54:49 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[16-Feb-2017 23:56:48 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:01:29 UTC] Request has failed with error 400: Bad Request: Field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:04:24 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:04:25 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:04:26 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:04:27 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:04:30 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:04:36 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[17-Feb-2017 00:05:05 UTC] Request has failed with error 400: Bad Request: MESSAGE_ID_INVALID
+
+[17-Feb-2017 00:06:22 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[17-Feb-2017 00:07:25 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:07:43 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:07:52 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:08:37 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:09:57 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:11:38 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:11:40 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:11:40 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:11:59 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:13:08 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:16:24 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[17-Feb-2017 00:16:55 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:22:29 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:24:29 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:26:30 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:26:33 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:27:25 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:28:27 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:28:28 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[17-Feb-2017 00:28:36 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:28:39 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 00:29:37 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:29:43 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:31:38 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:31:50 UTC] Request has failed with error 400: Bad Request: field "inline_keyboard" of the InlineKeyboardMarkup should be an Array
+
+[17-Feb-2017 00:31:58 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 07:14:50 UTC] Request has failed with error 403: Forbidden: bot was blocked by the user
+
+[17-Feb-2017 07:15:10 UTC] Request has failed with error 403: Forbidden: bot was blocked by the user
+
+[17-Feb-2017 07:56:43 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 07:57:02 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 08:00:14 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 08:00:25 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 08:01:00 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 08:01:51 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 16:49:50 UTC] Request has failed with error 403: Forbidden: bot was blocked by the user
+
+[17-Feb-2017 16:49:51 UTC] Request has failed with error 403: Forbidden: bot was blocked by the user
+
+[17-Feb-2017 16:50:42 UTC] Request has failed with error 403: Forbidden: bot was blocked by the user
+
+[17-Feb-2017 16:50:45 UTC] Request has failed with error 403: Forbidden: bot was blocked by the user
+
+[17-Feb-2017 16:50:46 UTC] Request has failed with error 403: Forbidden: bot was blocked by the user
+
+[17-Feb-2017 18:48:01 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 18:48:12 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 18:50:28 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 18:51:18 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 18:51:52 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 19:12:21 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 20:21:43 UTC] Request has failed with error 400: Bad Request: MESSAGE_ID_INVALID
+
+[17-Feb-2017 20:21:43 UTC] Request has failed with error 400: Bad Request: MESSAGE_ID_INVALID
+
+[17-Feb-2017 20:21:43 UTC] Request has failed with error 400: Bad Request: MESSAGE_ID_INVALID
+
+[17-Feb-2017 21:27:54 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[17-Feb-2017 21:28:15 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[17-Feb-2017 21:30:46 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[23-Feb-2017 11:23:17 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[23-Feb-2017 11:23:39 UTC] Request has failed with error 400: Bad Request: RESULT_ID_INVALID
+
+[23-Feb-2017 11:23:57 UTC] Request has failed with error 400: Bad Request: message is not modified
+
+[23-Feb-2017 11:25:00 UTC] Request has failed with error 400: Bad Request: message is not modified
+
