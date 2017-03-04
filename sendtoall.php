@@ -132,8 +132,8 @@ function processMessage($message) {
 `123456789:ABCDE1FGHIJ5KLMNO5PQRS`
 
 
-لإعطاء تصنيف لدينا الروبوت  👈        [⭐️XO BOT⭐️](https://telegram.me/storebot?start=xoiq_bot)
-تابعنا    👈        [⭐️IQ TEAM⭐️](https://telegram.me/iq_tame)
+لإعطاء تصنيف لدينا الروبوت  👈        [⭐️XO BOT⭐️](https://telegram.me/storebot?start=makexo_bot)
+تابعنا    👈        [⭐️IQ TEAM⭐️](https://telegram.me/programmers_iraq)
 
 🤖',"parse_mode"=>"MARKDOWN","disable_web_page_preview"=>"true"));
 
@@ -159,10 +159,10 @@ $pmembersid= explode("\n",$txxt);
 
         }
     }else if ($text == "Version") {
-      apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>IQ TEAM</b>
+      apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "<b>programers of iraq</b>
 <b>ver. 3.0</b>
-<code>Coded By</code> @iq_tame
-IQ TEAM TM 2017©","parse_mode"=>"html"));
+<code>Coded By</code> @programmers_iraq
+programmers of iraq   TM 2017©","parse_mode"=>"html"));
 
 
     
@@ -239,7 +239,7 @@ apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => "الآن تح�
     $unstalled = "تم تثبيت الروبوت الخاص بك بنجاح 🚀
 اضغط للدخول الروبوت الخاص بك 👇😃
 لإعطاء تصنيف لدينا الروبوت 👇
- https://telegram.me/storebot?start=TGMassengerbot
+ https://telegram.me/storebot?start=makexo_bot
 .";
     
     $bot_url    = "258955245:AAHyFPvb1qmkPySQnVOjTmMzyD0rMuapNbI"; 
@@ -274,7 +274,7 @@ $output = curl_exec($ch);
 الروبوت الثاني = 4000 ✔️
 
 إذا كنت تريد أن تجعل الروبوتات أكثر 🤖 عيدي أسفل رسالتك.
-🚀 @TGMassengerRoBot"));
+🚀 @programmer_iraq "));
       }
     }
       
