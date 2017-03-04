@@ -135,7 +135,7 @@ _يقوم البوت بصنع بوتات خاصه بلعبه ❌⭕️_
 لكل شخص  = بوت 1✖️
 لحصولك على بوت اخر   [راسل المطور👮](t.me/llalill_bot)
 لانشاء بوت اخر راسل المطورين✔️
-[تابع جديدنا على التليكرام](telegram.me/programmers_iraq) ',"parse_mode"=>"MARKDOWN",
+[تابع جديدنا على التليكرام](telegram.me/programmer_iraq) ',"parse_mode"=>"MARKDOWN",
 "disable_web_page_preview"=>"true",
 "reply_to_message_id"=>$message_id,
 'reply_markup' => array(
